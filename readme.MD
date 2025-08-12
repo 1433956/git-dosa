@@ -6,3 +6,6 @@
 # Karam Dosa
 * Batter
 * karam
+# Egg Dosa
+* Batter
+* 2 eggs
