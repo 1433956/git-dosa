@@ -8,4 +8,4 @@
 * karam
 # Egg Dosa
 * Batter
-* egg and karam
+* 2 eggs and karam
